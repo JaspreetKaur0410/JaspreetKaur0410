@@ -6,12 +6,12 @@
 
 # 💫 About Me:
 I am a full stack developer with expertise in -<br>
-Languages & Frameworks - Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django
-Database And ORM - MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2
-Front-end Development - Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3
-Operating Systems - Windows 10, Ubuntu, Windows 7, Linux, Unix
-Software/Tools - Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS
-Version Control, Methodologies - Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)
+Languages & Frameworks - Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django<br>
+Database And ORM - MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2<br>
+Front-end Development - Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3<br>
+Operating Systems - Windows 10, Ubuntu, Windows 7, Linux, Unix<br>
+Software/Tools - Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS<br>
+Version Control, Methodologies - Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)<br>
 
 
 
