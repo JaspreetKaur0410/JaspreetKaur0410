@@ -4,14 +4,15 @@
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width=700/>
 </div>
 
-# 💫 About Me:
+
+# 💫 About Me:<br>
 I am a full stack developer with expertise in -<br>
-Languages & Frameworks - Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django<br>
-Database And ORM - MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2<br>
-Front-end Development - Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3<br>
-Operating Systems - Windows 10, Ubuntu, Windows 7, Linux, Unix<br>
-Software/Tools - Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS<br>
-Version Control, Methodologies - Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)<br>
+🎓 Languages & Frameworks - Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django<br>
+🌱 Database And ORM - MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2<br>
+💬 Operating Systems - Windows 10, Ubuntu, Windows 7, Linux, Unix<br>
+👩🏾‍💻 Software/Tools - Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS<br>
+✉️ Version Control, Methodologies - Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)<br>
+
 
 
 
