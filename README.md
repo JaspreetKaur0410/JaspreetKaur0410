@@ -1,23 +1,26 @@
 ### Hi there 👋
 
-# 💫 About Me:
-I am a full stack developer with expertise in -<br>Languages & Frameworks
-Database And ORM
-Front-end Development
-Operating Systems
-Software/Tools
-Version Control, Methodologies
-Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django
-MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2
-Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3
-Windows 10, Ubuntu, Windows 7, Linux, Unix
-Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS
-Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)
-
-
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100"/>
 </div>
+
+# 💫 About Me:
+I am a full stack developer with expertise in -<br>
+Languages & Frameworks - Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django
+Database And ORM - MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2
+Front-end Development - Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3
+Operating Systems - Windows 10, Ubuntu, Windows 7, Linux, Unix
+Software/Tools - Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS
+Version Control, Methodologies - Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)
+
+
+
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
