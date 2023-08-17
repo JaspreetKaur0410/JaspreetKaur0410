@@ -1,10 +1,22 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a full stack developer with expertise in -<br>Backend - Java(Spring Boot), Python, PHP, Kotlin<br>Frontend - Angular/React, HTML, CSS, Javascript<br>Databse - MySQL/NoSQl<br>Cloud Technologies - AWS<br><br>
+I am a full stack developer with expertise in -<br>Backend -Languages & Frameworks
+Database And ORM
+Front-end Development
+Operating Systems
+Software/Tools
+Version Control, Methodologies
+Java, Python, Spring MVC, Spring Boot, C/C++, Kotlin, CakePHP, Django
+MySQL, JDBC, Hibernate ORM, MongoDB (NoSQL), Oracle, DB2
+Angular, JavaScript, HTML5, Jetpack Compose, JSP, XML, AJAX, CSS3
+Windows 10, Ubuntu, Windows 7, Linux, Unix
+Selenium, Docker, Maven, Postman, Git, Redhat JBoss, Apache Tomcat, AWS
+Bitbucket, Git, Agile, Scrum, Test Driven Development (TDD)
+
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966)](https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif)" width="100"/>
 </div>
 
 
