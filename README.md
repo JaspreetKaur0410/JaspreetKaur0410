@@ -5,7 +5,7 @@
 </div>
 
 
-# 💫 About Me:<br>
+# 💫 Technologies:<br>
 Languages & Frameworks: Python, Java<br>
 Visualization Tools & Libraries: Tableau, PowerBI, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib<br>
 Database And ORM: MySQL, SQL Server, JDBC, Hibernate ORM, MongoDB (NoSQL)<br>
