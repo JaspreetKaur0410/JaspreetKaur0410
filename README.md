@@ -9,7 +9,6 @@
 Database and ORM: MySQL, SQL Server, Hibernate, JDBC<br>
 Languages & Frameworks: Python, Java, Spring Boot, JavaScript, LLM Models<br>
 Visualization Tools & Libraries: Tableau, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, MS Excel<br>
-Front-end Development: JavaScript, NodeJS, Jetpack Compose, JSP, XML, AJAX, CSS3<br>
 Scripting/Tools/Cloud: Python Scripting, Git, Jira, AWS<br>
 Version Control/Methodologies: Bitbucket, Git, Agile, Scrum, GitLab, Test Driven Development (TDD)<br>
 
