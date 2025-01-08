@@ -1,27 +1,89 @@
-### Hi there 👋
+# Jaspreet Kaur
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width=500/>
-</div>
-
-
-# 💫 Technologies:<br>
-Database and ORM: MySQL, SQL Server, Hibernate, JDBC<br>
-Languages & Frameworks: Python, Java, Spring Boot, JavaScript, LLM Models<br>
-Visualization Tools & Libraries: Tableau, Streamlit, NumPy, Pandas, Scikit-Learn, Matplotlib, MS Excel<br>
-Scripting/Tools/Cloud: Python Scripting, Git, Jira, AWS<br>
-Version Control/Methodologies: Bitbucket, Git, Agile, Scrum, GitLab, Test Driven Development (TDD)<br>
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaspreetKaur0410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaspreetKaur0410&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaspreetKaur0410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Innovative Software Engineer | 5+ Years of Expertise**  
+🌎 Detroit Metropolitan Area, MI  
+📧 kaur.jasp0403@gmail.com | 📱 781-698-9526  
+🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JaspreetKaur0410&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Summary
+Innovative and results-driven Software Engineer with 5+ years of experience in crafting dynamic web applications using **Python (Django)**, **Java (Spring Boot)**, and **JavaScript**. Expertise in database design, API development, AWS, debugging, and testing for web and mobile platforms. Passionate about leveraging technology to solve complex challenges and enhance user experiences.
+
+---
+
+## 🛠️ Technical Skills
+
+| **Programming Languages**  | Python (Django), Java (Spring Boot), JavaScript, HTML5, CSS |
+|-----------------------------|-----------------------------------------------------------|
+| **Database & ORM**          | MySQL, SQL-Server, Hibernate, JDBC                        |
+| **Scripting/Tools/Cloud**   | Python Scripting, AWS, Git, Jira                          |
+| **Testing Tools**           | Selenium, Manual Testing, Postman                        |
+
+---
+
+## 💼 Professional Experience
+
+### **Python Developer**  
+**Cognowiz LLC | Jul 2023 – Jul 2024**  
+- Built a web application with **Python**, **Streamlit**, and **MySQL** to enhance data-driven decision-making.  
+- Automated ETL workflows with **AWS Glue**, extracting data from **Amazon S3** and loading into **Redshift**.  
+- Utilized **Pandas** to analyze customer behavior, presenting trends and improving recommendations by 60%.  
+- Implemented **K-means clustering** to enhance operational efficiency by 10%.  
+
+### **QA Analyst (Co-op)**  
+**Ingenico | May 2022 – Dec 2022**  
+- Developed Python scripts for test automation, reducing testing time by 40%.  
+- Enhanced reliability by predicting terminal failures through historical data analysis.  
+- Ensured software performance by managing installations, upgrades, and configurations.  
+
+### **Software Engineer**  
+**AAA Infotech | Jun 2018 – Nov 2020**  
+- Designed a payment processing system with **Python (Django)** and **Stripe API** for secure transactions.  
+- Automated testing using **Python** and **Selenium**, decreasing bug resolution time by 40%.  
+- Built Python scripts for report automation and optimized SQL queries, boosting performance by 30%.  
+
+### **Software Developer Intern**  
+**Rapid Soft Technologies | Apr 2017 – Sep 2017**  
+- Developed a web application with **Java (Spring Boot)**, **JavaScript**, **HTML**, and **CSS**.  
+- Conducted manual testing and issue tracking using **Jira**, improving application reliability.
+
+---
+
+## 🎓 Education
+
+**Northeastern University | Boston, USA**  
+*Master of Science in Information Systems (Jan 2021 – Dec 2022)*  
+- Courses: Data Science (Python), Web Development (Spring Boot), Cloud Computing (AWS)
+
+**Kurukshetra University | Haryana, India**  
+*Bachelor of Technology in Computer Science (Aug 2014 – May 2018)*  
+- Courses: Java, Algorithms, AI, Operating Systems
+
+---
+
+## 📂 Academic Projects
+
+- **Coronavirus Tracking System**: SQL Server, Tableau, AWS - Visualized pandemic data effectively.  
+- **Foster Care Management System**: Advanced Java - Improved communication efficiency by 70%.  
+- **Blogging Web App**: Spring Boot, Hibernate - Enhanced subscription-based platform performance by 30%.
+
+---
+
+## 📜 Certifications
+
+- **AWS Essentials** (Coursera, 2024)  
+- **Meta Python** (Udemy, 2023)  
+- **Python Dashboards** (Coursera, 2023)  
+
+---
+
+## 🌟 Portfolio Highlights
+
+- Comprehensive knowledge of **backend development**, **cloud services**, and **automation testing**.  
+- Proficient in analyzing and visualizing data, improving efficiency and decision-making.  
+- Experienced in building scalable and secure web applications.
+
+---
+
+💡 **Feel free to explore my repositories for detailed insights into my projects and code!**
