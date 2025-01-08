@@ -53,11 +53,11 @@ Innovative and results-driven Software Engineer with 5+ years of experience in c
 ## 🎓 Education
 
 **Northeastern University | Boston, USA**  
-*Master of Science in Information Systems (Jan 2021 – Dec 2022)*  
+*Master of Science in Information Systems *  
 - Courses: Data Science (Python), Web Development (Spring Boot), Cloud Computing (AWS)
 
 **Kurukshetra University | Haryana, India**  
-*Bachelor of Technology in Computer Science (Aug 2014 – May 2018)*  
+*Bachelor of Technology in Computer Science *  
 - Courses: Java, Algorithms, AI, Operating Systems
 
 ---
