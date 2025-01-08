@@ -7,11 +7,6 @@
 
 ---
 
-## 🚀 Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in crafting dynamic web applications using **Python (Django)**, **Java (Spring Boot)**, and **JavaScript**. Expertise in database design, API development, AWS, debugging, and testing for web and mobile platforms. Passionate about leveraging technology to solve complex challenges and enhance user experiences.
-
----
-
 ## 🛠️ Technical Skills
 
 | **Programming Languages**  | Python (Django), Java (Spring Boot), JavaScript, HTML5, CSS |
