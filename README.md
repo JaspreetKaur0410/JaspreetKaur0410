@@ -3,7 +3,7 @@
 🎯 **Innovative Software Engineer | 5+ Years of Expertise**  
 🌎 Detroit Metropolitan Area, MI  
 📧 kaur.jasp0403@gmail.com | 📱 781-698-9526  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jaspreet-kaur-8377a913b/) | [GitHub](https://github.com/JaspreetKaur0410) | [Portfolio](https://jaspreetkaur0410.github.io/portfolio/) | [Blogs](https://medium.com/@kaur.jasp0403)  
 
 ---
 
