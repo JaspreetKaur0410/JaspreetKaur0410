@@ -74,16 +74,8 @@ Innovative and results-driven Software Engineer with 5+ years of experience in c
 
 - **AWS Essentials** (Coursera, 2024)  
 - **Meta Python** (Udemy, 2023)  
-- **Python Dashboards** (Coursera, 2023)  
-
----
-
-## 🌟 Portfolio Highlights
-
-- Comprehensive knowledge of **backend development**, **cloud services**, and **automation testing**.  
-- Proficient in analyzing and visualizing data, improving efficiency and decision-making.  
-- Experienced in building scalable and secure web applications.
-
+- **Python Dashboards** (Coursera, 2023)
+  
 ---
 
 💡 **Feel free to explore my repositories for detailed insights into my projects and code!**
