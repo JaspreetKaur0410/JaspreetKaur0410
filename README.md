@@ -38,5 +38,6 @@ I am a Data Analyst with 4 years of experience across the retail, education, and
 ## 📫 Contact Me
 - 📍 Detroit Metropolitan Area, MI
 - 📧 [jaspreet.k.tech@gmail.com](mailto:jaspreet.k.tech@gmail.com)
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaspreet-kaur-8377a913b/)
+- ✍️ [Blogging](https://medium.com/@kaur.jasp0403)
 
