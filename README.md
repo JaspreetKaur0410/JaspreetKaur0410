@@ -1,76 +1,43 @@
-# Jaspreet Kaur
+# Jaspreet Kaur - Data Analyst
 
-🎯 **Innovative Software Engineer | 5+ Years of Expertise**  
-🌎 Detroit Metropolitan Area, MI  
-📧 kaur.jasp0403@gmail.com | 📱 781-698-9526  
-🔗 [LinkedIn](https://www.linkedin.com/in/jaspreet-kaur-8377a913b/) | [GitHub](https://github.com/JaspreetKaur0410) | [Portfolio](https://jaspreetkaur0410.github.io/portfolio/) | [Blogs](https://medium.com/@kaur.jasp0403)  
-
----
+## 👋 About Me
+I am a Data Analyst with 4 years of experience across the retail, education, and payments sectors. I specialize in Python, SQL, and Tableau, with strong skills in data cleaning, preprocessing, web scraping, and creating dynamic visualizations. I am passionate about leveraging data to drive business strategies and improve decision-making processes.
 
 ## 🛠️ Technical Skills
-
-| **Programming Languages**  | Python (Django), Java (Spring Boot), JavaScript, HTML5, CSS |
-|-----------------------------|-----------------------------------------------------------|
-| **Database & ORM**          | MySQL, SQL-Server, Hibernate, JDBC                        |
-| **Scripting/Tools/Cloud**   | Python Scripting, AWS, Git, Jira                          |
-| **Testing Tools**           | Selenium, Manual Testing, Postman                        |
-
----
+- **Programming Languages:** Python, SQL
+- **Libraries:** Pandas, Numpy, matplotlib, BeautifulSoup, Scrapy
+- **Visualization Tools:** Tableau, MS Excel
+- **Data Analysis Techniques:** Data Cleaning & Transformation, Web Scraping, Visualization
+- **Tools & IDEs:** Git, PowerPoint, Visual Studio Code, Jupyter Notebook
+- **Web Technologies:** HTML5, CSS, JSON, Moodle(LMS)
 
 ## 💼 Professional Experience
+### **Data Analyst (Contract), Cognowiz LLC (Nov 2023 - June 2024)**
+- Executed complex SQL queries, optimizing 15 scripts to enhance performance by 40%.
+- Developed Tableau dashboards for trending product insights and regional KPIs.
+- Utilized Python and Seaborn to visualize customer segmentation for personalized marketing.
 
-### **Python Developer**  
-**Cognowiz LLC | Jul 2023 – Jul 2024**  
-- Built a web application with **Python**, **Streamlit**, and **MySQL** to enhance data-driven decision-making.  
-- Automated ETL workflows with **AWS Glue**, extracting data from **Amazon S3** and loading into **Redshift**.  
-- Utilized **Pandas** to analyze customer behavior, presenting trends and improving recommendations by 60%.  
-- Implemented **K-means clustering** to enhance operational efficiency by 10%.  
+### **Data Analyst (Co-op), Ingenico (May 2022 - Dec 2022)**
+- Analyzed payment terminal logs, detecting discrepancies in transaction processing.
+- Conducted manual firmware testing, reducing software bugs by 30%.
+- Employed Agile methodologies to improve product stability and bug resolution time.
 
-### **QA Analyst (Co-op)**  
-**Ingenico | May 2022 – Dec 2022**  
-- Developed Python scripts for test automation, reducing testing time by 40%.  
-- Enhanced reliability by predicting terminal failures through historical data analysis.  
-- Ensured software performance by managing installations, upgrades, and configurations.  
-
-### **Software Engineer**  
-**AAA Infotech | Jun 2018 – Nov 2020**  
-- Designed a payment processing system with **Python (Django)** and **Stripe API** for secure transactions.  
-- Automated testing using **Python** and **Selenium**, decreasing bug resolution time by 40%.  
-- Built Python scripts for report automation and optimized SQL queries, boosting performance by 30%.  
-
-### **Software Developer Intern**  
-**Rapid Soft Technologies | Apr 2017 – Sep 2017**  
-- Developed a web application with **Java (Spring Boot)**, **JavaScript**, **HTML**, and **CSS**.  
-- Conducted manual testing and issue tracking using **Jira**, improving application reliability.
-
----
+### **Data Analyst (Full-Time), AAA Infotech (Sep 2018 – Nov 2020)**
+- Automated data migration in Moodle (LMS) using Python, enhancing data accuracy by 90%.
+- Managed bulk learner account operations, reducing processing time by 30%.
+- Developed a transaction module with JavaScript and MySQL, increasing efficiency by 90%.
 
 ## 🎓 Education
-
-**Northeastern University | Boston, USA**  
-*Master of Science in Information Systems
-- Courses: Data Science (Python), Web Development (Spring Boot), Cloud Computing (AWS)
-
-**Kurukshetra University | Haryana, India**  
-*Bachelor of Technology in Computer Science
-- Courses: Java, Algorithms, AI, Operating Systems
-
----
+- **Master of Science in Information Systems** | Northeastern University, Boston, USA (Jan 2021 – Dec 2022)
+- **Bachelor of Technology in Computer Science** | Kurukshetra University, Haryana, India (Aug 2014 - May 2018)
 
 ## 📂 Academic Projects
+- **Audible Web Scraping & Analytics:** Developed scalable web scraping scripts and interactive dashboards for audiobook performance analysis.
+- **Coronavirus Tracking Database:** Built a SQL Server database with Tableau visualizations to track and analyze COVID-19 data.
 
-- **Coronavirus Tracking System**: SQL Server, Tableau, AWS - Visualized pandemic data effectively.  
-- **Foster Care Management System**: Advanced Java - Improved communication efficiency by 70%.  
-- **Blogging Web App**: Spring Boot, Hibernate - Enhanced subscription-based platform performance by 30%.
+## 📫 Contact Me
+- 📍 Detroit Metropolitan Area, MI
+- 📧 [jaspreet.k.tech@gmail.com](mailto:jaspreet.k.tech@gmail.com)
+- 💼 [LinkedIn](#)
+- 🌐 [Portfolio](#)
 
----
-
-## 📜 Certifications
-
-- **AWS Essentials** (Coursera, 2024)  
-- **Meta Python** (Udemy, 2023)  
-- **Python Dashboards** (Coursera, 2023)
-  
----
-
-💡 **Feel free to explore my repositories for detailed insights into my projects and code!**
