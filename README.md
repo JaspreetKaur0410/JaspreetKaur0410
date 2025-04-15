@@ -1,7 +1,7 @@
 # Jaspreet Kaur - Data Analyst
 
 ## 👋 About Me
-I am a Data Analyst with 4 years of experience across the retail, education, and payments sectors. I specialize in Python, SQL, and Tableau, with strong skills in data cleaning, preprocessing, web scraping, and creating dynamic visualizations. I am passionate about leveraging data to drive business strategies and improve decision-making processes.
+I am a Data Analyst with 5 years of experience across the retail, education, and payments sectors. I specialize in Python, SQL, and Tableau, with strong skills in data cleaning, preprocessing, web scraping, and creating dynamic visualizations. I am passionate about leveraging data to drive business strategies and improve decision-making processes.
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, SQL
